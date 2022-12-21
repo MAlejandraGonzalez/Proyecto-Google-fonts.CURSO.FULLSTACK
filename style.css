@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+*{
+
+    font-family: 'Noto Serif NP Hmong', serif;
+    font-weight: 900;
+
+}
+
+
+header,section,footer{
+
+width: 960;
+background-color: white;
+
+}
+
+header{
+
+    height: 200px;
+    padding: 50px;
+    text-align: center;
+}
+
+header h1:hover{
+
+    color: red;
+    font-size: 25px;
+}
+
+h2{
+
+    color: blue;
+
+}
+h1{
+
+    text-decoration: underline;
+}
+#principal{
+
+    height: auto;
+    text-align: center;
+    
+}
+
+#principal img{
+
+    width: 70%;
+    padding: 10px 50px 50px 50px;
+
+}
+
+#informacion{
+
+    height: 500px;
+    
+}
+
+#informacion table{
+
+    text-align: center;
+
+}
+#informacion table tr th {
+
+    background-color: fuchsia
+}
+
+#informacion h1{
+
+    color: blue;
+}
+
+#principal div p{
+
+    padding: 5px;
+    font-size: 25px ;
+    color: blue;
+}
+
+footer{
+
+    height: 150px;
+    text-align: center;
+}
+
+footer h3{
+
+    text-decoration: underline;
+    color: blue;
+}
+
+footer h3:hover{
+
+    color: red;
+    font-size: 25px;
+}
+
+    
